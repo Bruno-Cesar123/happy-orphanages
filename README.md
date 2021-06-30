@@ -2,7 +2,7 @@
 
 
 ## Descrição do Projeto
-<p>projeto de criação e consulta de orfanatos.</p>
+<p>projeto de criação e localização de orfatanos desenvolvida na NLW, treinamendo da Rocketseat.</p>
 
 
 <h4> 
